@@ -4,31 +4,31 @@ enum Jop {
   developer(
     title:"นักพัฒนา",
     description: "ทำงานเกี่ยวกับการเขียนโปรแกรมและพัฒนาแอปพลิเคชัน",
-    image: "assets/images/dog.jpg",
+    image: "assets/images/123.jpg",
     color: Colors.blue,
   ),
   designer(
     title:"นักออกแบบ",
     description: "ทำงานเกี่ยวกับการออกแบบกราฟิกและประสบการณ์ผู้ใช้",
-    image: "assets/images/dog.jpg",
+    image: "assets/images/123.jpg",
     color: Colors.green,
   ),
   manager(
     title:"ผู้จัดการ",
     description: "ทำงานเกี่ยวกับการบริหารจัดการทีมและโครงการ",
-    image: "assets/images/dog.jpg",
+    image: "assets/images/123.jpg",
     color: Colors.orange,
   ),
   businessman(
     title:"นักธุรกิจ",
     description: "ทำงานเกี่ยวกับการบริหารธุรกิจและการตลาด",
-    image: "assets/images/dog.jpg",
+    image: "assets/images/123.jpg",
     color: Colors.purple,
   ),
   student(
     title:"นักศึกษา",
     description: "ทำงานเกี่ยวกับการเรียนและการศึกษา",
-    image: "assets/images/dog.jpg",
+    image: "assets/images/123.jpg",
     color: Colors.red,
   );
 
